@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-webflux:5.2.9.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.9.BUILD-SNAPSHOT/spring-webflux-5.2.9.BUILD-20200913.201113-44.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.9.BUILD-SNAPSHOT/spring-webflux-5.2.9.BUILD-20200913.201113-44-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.9.BUILD-SNAPSHOT/spring-webflux-5.2.9.BUILD-20200913.201113-44-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
